@@ -29,6 +29,7 @@ public class SwaggerConfig {
 				.contact(new Contact()
 					.name("Isabella Amantino")
 					.url("https://github.com/Isabella-Amantino")
+					.url("https://linkedin.com/in/isabella-amantino-908520175")
 					.email("isabella.amantino@hotmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
